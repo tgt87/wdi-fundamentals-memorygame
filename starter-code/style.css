@@ -50,3 +50,11 @@ a:hover {
  footer {
  	background-color: #808080;
  }
+ img {
+ 	height: 200px;
+	width: 150px;
+ }
+ #msg {
+ 	font-size: 30px;
+ 	color: rgb(2, 134, 140);
+ }
